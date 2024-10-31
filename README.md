@@ -26,8 +26,8 @@ I'm a materials science enthusiast with a passion for **Graph Neural Networks (G
 ### 📫 Get in Touch!
 Feel free to connect or reach out if you’re interested in collaborating or discussing innovations in **material science**, **GNNs**, or **LLMs**. Let’s make advancements together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/mashaekh-tausif-ehsan-a6121a1b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mashaekh-tausif)
 
 ---
 
