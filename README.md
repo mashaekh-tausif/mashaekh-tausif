@@ -4,7 +4,6 @@ I'm a materials science enthusiast with a passion for **Graph Neural Networks (G
 
 ---
 
----
 
 ### 🔍 About Me
 - 🧪 **Materials Science Enthusiast**: Deeply interested in harnessing machine learning to model and predict material behavior.
@@ -12,18 +11,9 @@ I'm a materials science enthusiast with a passion for **Graph Neural Networks (G
 - 💻 **Software & Simulation**: Experienced in **LAMMPS** for molecular dynamics simulations and other computational tools.
 
 ### 🛠️ Skills
-- **Programming Languages**:  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-%23007ACC.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-
-- **Simulation Tool**:  
-  ![LAMMPS](https://img.shields.io/badge/LAMMPS-ff0000?style=for-the-badge&logo=lammps&logoColor=white)
-
-- **Machine Learning Libraries**:  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00C7B7?style=for-the-badge&logo=
+- **Programming Languages**: Python, C, MATLAB
+- **Simulation Tools**: LAMMPS
+- **Machine Learning Libraries**: PyTorch, PyTorch Geometric, LlamaIndex
 
 ---
 
