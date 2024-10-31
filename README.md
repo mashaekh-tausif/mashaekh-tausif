@@ -20,6 +20,7 @@ I'm a materials science enthusiast with a passion for **Graph Neural Networks (G
 ### 📚 Current Projects
 - Applying **Graph Neural Networks** to predict material properties.
 - Developing retrieval-augmented models in materials science using **LLM** frameworks.
+- Using **Multi-fidelity Physics Informed Neural Network** to reduce the computational cost of simulations
 - Exploring optimal materials design through advanced **GNN and ML techniques**.
 
 ---
