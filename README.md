@@ -11,7 +11,7 @@ I'm a materials science enthusiast with a passion for **Graph Neural Networks (G
 - 💻 **Software & Simulation**: Experienced in **LAMMPS** for molecular dynamics simulations and other computational tools.
 
 ### 🛠️ Skills
-- **Programming Languages**: Python, C, MATLAB
+- **Programming Languages**: Python, C, C++, MATLAB
 - **Simulation Tools**: LAMMPS
 - **Machine Learning Libraries**: PyTorch, PyTorch Geometric, LlamaIndex
 
